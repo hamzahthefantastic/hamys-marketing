@@ -1,7 +1,7 @@
-#Horiseon Marketing Agency
+# Horiseon Marketing Agency
 This is the website for Horiseon Marketing Agency, which offers services in search engine optimization, online reputation management, and social media marketing.
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -14,4 +14,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-##Website Link
+## Website Link
